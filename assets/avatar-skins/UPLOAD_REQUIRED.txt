@@ -1,0 +1,22 @@
+⚠️  AVATAR VIDEO REQUIRED
+
+You need to upload an avatar video for the Digital Avatar to work.
+
+📋 Quick Instructions:
+
+1. Prepare your video (MP4 format, 720p+, frontal face)
+2. Provide me with either:
+   - A direct download URL (Google Drive, Dropbox, etc.)
+   - Or we can use a royalty-free stock video
+
+3. I'll download it to: default.mp4
+
+📖 See AVATAR_SETUP.md for detailed requirements and options.
+
+🎬 Avatar Options:
+   - Your own face/photo
+   - Stock footage (Pexels, Pixabay)
+   - AI-generated from photo
+   - Professional video
+
+Need help? Just ask!

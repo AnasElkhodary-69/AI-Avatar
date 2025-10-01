@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data and models
+data/models/
+data/videos/
+*.pth
+*.onnx
+*.xml
+*.bin
+
+# Temporary files
+*.wav
+*.mp4
+*.avi
+temp/
+*.log
+backend/wav2lip/wav2lip/temp/
+backend/wav2lip/wav2lip/results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+frontend/.next/
+frontend/out/
+
+# Build
+build/
+dist/
+*.egg-info/
+backend/wav2lip/cache/
